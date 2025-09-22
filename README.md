@@ -29,13 +29,4 @@ Estou em busca da minha primeira oportunidade profissional na área de dados par
 
 ---
 
-### 📫 Contato
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:SEUEMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
